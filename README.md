@@ -14,11 +14,11 @@ Do not launch it if you are prone to seizures.
 
 ## INFO:
 
-The Matrix programs will wither make rainbow code (matrix2) or green code (MATRIX).
+The Matrix programs will either make rainbow code (matrix2) or green code (MATRIX).
 
-The Text-To-Speech program will make you computer say what you type.
+The Text-To-Speech program will make your computer say what you type.
 
-Quiz programs will let you play trivia.
+Quiz programs will let you play trivia games.
 
 The Passgen 200 will generate completely random strings of numbers that you can
 set as passwords. The program does not store these and never will.
