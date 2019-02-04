@@ -9,7 +9,7 @@ The VBscript "'Ello! Welcome to my computer!" is designed to scare a snoop and t
 shut down your computer. It is 100% harmless, despite the shutdown.
 
 SEIZURE WARNING:
-The program "rainbow" flashed rainbow colors in rapid succession.
+The program "rainbow" flashes rainbow colors in rapid succession.
 Do not launch it if you are prone to seizures.
 
 ## INFO:
