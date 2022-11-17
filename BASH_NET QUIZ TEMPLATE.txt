@@ -1,0 +1,50 @@
+//////
+
+Copy this below to a new text document.
+Edit it how you like and choose 
+Save As ----> All Files ----> .BAT
+
+---Emma Peterson
+
+/////
+
+
+
+@echo off
+color fa
+title ""
+echo.
+echo - - - - - - - - - - - - - - -
+echo.
+echo ""
+echo.
+echo - - - - - - - - - - - - - - -
+echo.
+pause
+cls
+echo ""?
+echo 1 ""
+echo 2 ""
+echo 3 ""
+set /p ""=choice1~3
+if %""%==1 goto ""
+if %""%==2 goto ""
+if %""%==3 goto ""
+:""
+cls
+echo ""
+pause
+pause
+goto continued
+:""
+cls
+echo ""
+pause
+pause
+goto end
+:continued
+cls
+echo ""
+pause
+pause
+:end
